@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Record Daily Expenses</string>
+    <string name="button_auth">Authenticate via Google Sheets</string>
+
+    <string-array name="array_type">
+        <item> Restaurant > 100 Rs. </item>
+        <item> Tea and milk if less then 100 Rs. </item>
+        <item> Rent </item>
+        <item> Gifts </item>
+        <item> Bills </item>
+        <item> EMI </item>
+        <item> Entertainment </item>
+        <item> Donations </item>
+        <item> Fuel </item>
+        <item> Groceries </item>
+        <item> Health </item>
+        <item> Insurance </item>
+        <item> Investment </item>
+        <item> Shopping </item>
+        <item> Home Assets </item>
+        <item> Travel </item>
+        <item> Savings - FD or anything other </item>
+        <item> Other </item>
+    </string-array>
+</resources>
